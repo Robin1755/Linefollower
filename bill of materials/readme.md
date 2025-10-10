@@ -5,7 +5,7 @@
 |----------|----|------------|-----------|---------|------|---------|
 |         1|N20 micro metal gear motors    |   Motor         |    nieuw       |       €1,74       |   2   |   €3,4      |
 |         2|LiitoKala Lii-King4000    |    18650 batterij        |   nieuw        |     €3,67         |  2    |  €7,35       |
-|         3| DRV8833   |   Motor driver         |   nieuw        |   €0,51           |   1   |    €0,51     |
+|         3| DRV8833   |   Motor driver H-brug         |   nieuw        |   €0,51           |   1   |    €0,51     |
 |         4|  HY-S301  |     Sensor       |    nieuw       | €1,59             |   1   |  €1,59       |
 |         5| Arduino Nano   |   Microcontroller         |  nieuw         |    €2,91          |   1   |  €2,91       |
 |         6| HC-05   |  Bluetooth module          |  recup         |    €1,61          |  1    |  €1,61       |
