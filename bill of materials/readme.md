@@ -9,7 +9,7 @@
 |         4|  HY-S301  |     Sensor       |    nieuw       | €1,59             |   1   |  €1,59       |
 |         5| Arduino Nano   |   Microcontroller         |  nieuw         |    €2,91          |   1   |  €2,91       |
 |         6| HC-05   |  Bluetooth module          |  recup         |    €1,61          |  1    |  €1,61       |
-|         7| PCB   |  Perforatec Circuit Board          | recup          |   €1,32           |  1    |  €1,32       |
+|         7| PCB   |  Perforated Circuit Board          | recup          |   €1,32           |  1    |  €1,32       |
 |         8|    |      Wielen      |           |              |  2  |         |
 |         9|  Schakelaar  |     Schakelaar       |      nieuw     |    €0,1          |  1    |  €0,1       |
 |         10|  Batterijhouder  |   Batterijhouder         |   nieuw        |     €1,29         | 1     | €1,29        |
@@ -17,5 +17,5 @@
 |         12|  18650 batterijlader 4 slots  |  Batterijlader          |    nieuw       | €6,33             |  1    |   €6,33      |
 |         13| Pin headers   |   Pin headers mannelijk en vrouwelijk         | nieuw          |     €2,17         |  1    |   €2,17      |
 |         14| N20 motor mount   |  Motorhouder          |   nieuw        |    €0,35          |   2   |    €0,7     |
-|         15|  M2 bout  |            |           |              |      |         |
+|         15|  M2 bout  |            |     recup      |              |      |         |
 |         16|    |            |           |              |      |         |
