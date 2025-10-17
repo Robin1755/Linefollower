@@ -2,4 +2,4 @@
 
 Stap 1: Maak de schakeling na op een breadboard.  
 Stap 2: Upload de code naar de Arduino nano.  
-Stap3: Steek de batterijen in de batterijhouder
+Stap 3: Steek de batterijen in de batterijhouder.
