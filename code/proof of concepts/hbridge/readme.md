@@ -1,3 +1,4 @@
 # H-Bridge proof of concept
 
-minimale hard- & software + stappenplan dat aantoont dat 2 motoren onafhankelijk van elkaar kunnen draaien, en (traploos) regelbaar zijn in snelheid en draairichting.
+Stap 1: Maak de schakeling na op een breadboard.
+Stap 2: Upload de code naar de Arduino nano
