@@ -7,21 +7,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino nano  
 
-motors: 
+motors: N20 metal gear 500/min  
 
-h-bridge:
+h-bridge: DRV8833  
 
-sensors:
+sensors: QTR8A  
 
-batteries:
+batteries: 2x18650  
 
-wireless communication:
+wireless communication: HC05  
 
-distance sensor - motors:
+distance sensor - motors: 12cm  
 
-weight:
+weight: 265g  
 
-speed: 
+speed: 0,8m/s  
 
