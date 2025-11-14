@@ -17,5 +17,5 @@
 |         12|  18650 batterijlader 4 slots  |  Batterijlader          |    nieuw       | €6,33             |  1    |   €6,33      |
 |         13| Pin headers   |   Pin headers mannelijk en vrouwelijk         | nieuw          |     €2,17         |  1    |   €2,17      |
 |         14| N20 motor mount   |  Motorhouder          |   nieuw        |    €0,35          |   2   |    €0,7     |
-|         15|  M2 bout  |            |     recup      |              |      |         |
-|         16|    |            |           |              |      |         |
+|         15|  hexagon spacers  |   spacers         |     nieuw      |       €2,43       |  1    |   €2,43      |
+|         16|  knop  |    knop        |  recup         |    €0          |  1    |   €0      |
