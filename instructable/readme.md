@@ -4,3 +4,13 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
 
 ### stap 1
 bestel alle componenten uit de bill of materials  
+
+
+### stap 2  
+Bouw de auto na zoals het elektrische schema. Je moet gaten boren in de pcb zodat je hier de motoren op kan bevestigen.  
+
+### stap 3  
+Controleer met een multimeter of je overal een goede connectie hebt en geen foute ongewenste verbindingen  
+
+### stap 4
+Upload de finale code naar de arduino
